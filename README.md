@@ -28,3 +28,5 @@ Here's a breakdown of the modifications:
 4. The Input component now uses a `defaultValue` that's set to the previous name when in edit mode.
 5. Added an "Edit" button that appears after submission, allowing the user to modify their input.
 6. The submit button text changes to "Update" when in edit mode.
+
+Deployed url: https://v0-new-project-9rq3iboad9x-pj0aba.vercel.app
